@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "soozzi's portfolio"
 date:   2023-01-07 20:26:30 +0900
 categories: jekyll update
 ---
